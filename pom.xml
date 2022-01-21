@@ -36,7 +36,7 @@
         <hikari>3.4.2</hikari>
         <ehcache>3.8.1</ehcache>
         <javax.cache>1.1.1</javax.cache>
-        <com.h2.driver>1.4.197</com.h2.driver>
+        <com.h2.driver>2.1.210</com.h2.driver>
         <!--<mysql-connector-java>5.1.46</mysql-connector-java>-->
     </properties>
 
